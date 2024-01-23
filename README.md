@@ -1,4 +1,5 @@
-![color picker](https://i.gifer.com/LCPT.gif)  # Hi there, I'm Naod Kassahun! 👋
+  ![LCPT](https://github.com/Naod36/Naod36/assets/139387694/bf0f357e-b4a2-4c15-b172-36bb0744c607)
+# Hi there, I'm Naod Kassahun! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer creating and exploring new technologies. 
 
