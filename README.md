@@ -1,7 +1,6 @@
 # Hi there, I'm Naod Kassahun! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves coding, creating, and exploring new technologies. I believe in the power of technology to make a positive impact on the world.
-
+Welcome to my GitHub profile! I'm a passionate developer creating and exploring new technologies. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/naod-kassahun) 
@@ -19,4 +18,3 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, creat
 ---
 [![](https://visitcount.itsvg.in/api?id=naod36&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
