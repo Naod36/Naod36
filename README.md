@@ -1,4 +1,5 @@
 
+<img src="https://github.com/Naod36/Naod36/assets/139387694/e1b39349-0126-41bf-9e19-9d1be253565b" width="50" height="50">
 # Hi there, I'm Naod Kassahun! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer creating and exploring new technologies. 
