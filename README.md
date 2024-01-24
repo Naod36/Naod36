@@ -3,9 +3,7 @@
 
 
 # Hi there, I'm Naod Kassahun! 👋
-
-![giphy](https://github.com/Naod36/Naod36/assets/139387694/d5384ec6-2538-4c0a-a7b1-10853dbc8b60)
-
+<img src="https://github.com/Naod36/Naod36/assets/139387694/d5384ec6-2538-4c0a-a7b1-10853dbc8b60" width="100">
 
 Welcome to my GitHub profile! I'm a passionate developer creating and exploring new technologies. 
 
