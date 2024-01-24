@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Naod36/Naod36/assets/139387694/c24aabd6-de43-4e7b-a46a-5f7b94847bd4" width="880" height="440" >
+<img src="https://github.com/Naod36/Naod36/assets/139387694/c24aabd6-de43-4e7b-a46a-5f7b94847bd4" width="980" height="440" >
 
 
 # Hi there, I'm Naod Kassahun! 👋
